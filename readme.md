@@ -1,8 +1,6 @@
-# ¡Hola, soy Kysage! 👋
+# ¡Hola, soy **Kysage**! 👋
 
-![Profile Picture](https://github.com/kysage1.png)
-
-¡Bienvenido a mi rincón de desarrollo! Soy Hypevoidsoul, "Un alma de Hype Void" 😂.
+<p style="font-size:18px; font-weight:bold;">¡Bienvenido a mi rincón de desarrollo! Soy Hypevoidsoul, "Un alma de Hype Void" 😂.</p>
 
 ## Sobre mí
 ¡Hola! Soy Kysage, un entusiasta de la programación en constante aprendizaje. Actualmente, estoy explorando nuevos proyectos y buscando colaboradores apasionados.
