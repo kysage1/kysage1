@@ -4,5 +4,5 @@
 ![Kysage's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kysage1&theme=blue-green&hide_border=true)
 
 <p align="center">
-<a href="https://github.com/kysage1"><img title="kysage1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kysage1&layout=compact"></a>
+<a href="https://github.com/kysage1"><img title="kysage1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kysage1&layout=compact&theme=blue-green&hide_border=true"></a>
 </p>
