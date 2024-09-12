@@ -3,6 +3,6 @@
 
 <p align="center">
   <a href="https://github.com/kysage1">
-    <img title="kysage1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kysage1&layout=compact&theme=blue-green&hide_border=true">
+    <img title="kysage1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kys age1&layout=compact&theme=nautilus&hide_border=true">
   </a>
 </p>
