@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kysage1&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/kysage1)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kysage1&data=followers,repositories,stars,commits&theme=blue-green)](https://github.com/kysage1)
 
 <picture>
   <source
