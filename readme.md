@@ -2,7 +2,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kysage1&show_icons=true&theme=nautilus"
+    srcset="https://github-readme-stats.vercel.app/api?username=kysage1&show_icons=true&theme=blue-green"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -14,6 +14,6 @@
 
 <p align="center">
   <a href="https://github.com/kysage1">
-    <img title="kysage1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kysage1&layout=compact&theme=nautilus&hide_border=false">
+    <img title="kysage1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kysage1&layout=compact&theme=blue-green&hide_border=false">
   </a>
 </p> 
